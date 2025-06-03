@@ -1,0 +1,7 @@
+sumber belajar :
+https://dashboard.codepolitan.com/learn/courses/belajar-membuat-project-expressjs-dengan-mongodb/lessons/8784
+
+1. aktifkan database mongodb
+mongod --dbpath="c:\data\db"
+
+install express mongoose ejs
