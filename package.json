@@ -1,0 +1,21 @@
+{
+  "name": "project-exppres-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mursidi4321/learn-express-mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mursidi4321/learn-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/mursidi4321/learn-express-mongodb#readme"
+}
