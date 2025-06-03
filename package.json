@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/mursidi4321/learn-express-mongodb/issues"
   },
-  "homepage": "https://github.com/mursidi4321/learn-express-mongodb#readme"
+  "homepage": "https://github.com/mursidi4321/learn-express-mongodb#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1"
+  }
 }
